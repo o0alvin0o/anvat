@@ -1,28 +1,28 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Trang chủ",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Về chúng tôi",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Liên hệ",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Lọc",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
+          "name": "Món",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "Loại",
           "url": "/categories"
         },
         {

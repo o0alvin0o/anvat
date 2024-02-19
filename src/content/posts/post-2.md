@@ -1,5 +1,5 @@
 ---
-title: Why a balloon is a flexible bag
+title: Rong biển cháy tỏi
 description: "meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/posts/02.jpg"
@@ -9,14 +9,12 @@ tags: ["diy", "toy"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Với vị rong biển đậm đà, giòn rụm quyện cùng phần tỏi thơm lừng kết hợp cùng vị cay cay từ ớt rất kích thích,... Tất cả đã tạo nên một món ăn vặt rất hấp dẫn và thơm ngon. Món rong biển cháy tỏi được nhiều người dùng khi xem phim, nhâm nhi với bia hay dùng với cơm trắng đều rất ngon.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Đặc sản ve kêu
 
-## Creative Design
+Ngon de kiu luôn
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+> Không biết nhưng mà ngon
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Ăn đi bao ngon

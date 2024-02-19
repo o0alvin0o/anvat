@@ -1,23 +1,23 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
+title: "Tui là Nina, đang cần nội thất cho nhà mới"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/author.jpg"
 draft: false
 
 what_i_do:
   title: "What I Do"
   items:
-  - title: "Content Writing"
+  - title: "Ngon đỉnh"
     description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
   
-  - title: "Photography"
+  - title: "Quán view đẹp"
     description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
   
-  - title: "Web Research"
+  - title: "Chuyên đồ ăn"
     description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Bán đủ thứ đồ ăn luôn
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+Nhậu nhẹt bét nhè
